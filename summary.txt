@@ -1,0 +1,12 @@
+# Explanation of modified points (required)
+TODO1:シグモイド関数の実装
+TODO2:内積の計算
+TODO3:error(誤差)を求める
+TODO4:backpropagation処理での重みの更新
+# Discussion (if needed)
+
+
+# Comments (if needed)
+
+
+
